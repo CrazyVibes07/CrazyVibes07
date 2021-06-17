@@ -13,8 +13,4 @@
 <a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyvibes07&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <br>
-<h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/485255323502772255"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/485255323502772255.png"></a>
-<br>
-<br>
 </div>
