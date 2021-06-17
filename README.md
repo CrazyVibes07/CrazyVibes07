@@ -8,7 +8,7 @@
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
 <h3 class="center">Stats 📊</h3>
-<a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=crazyvibes07&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <a href="https://github.com/crazyvibes07?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyvibes07&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
